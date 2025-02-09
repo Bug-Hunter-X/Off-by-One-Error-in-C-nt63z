@@ -1,0 +1,2 @@
+# Off-by-One Error in C
+This repository demonstrates a common off-by-one error in C programming. The example showcases how easily such errors can lead to unexpected program behavior and how to avoid them.
